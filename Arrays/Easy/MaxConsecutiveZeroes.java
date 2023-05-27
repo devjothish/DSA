@@ -1,3 +1,5 @@
+package Arrays.Easy;
+
 public class MaxConsecutiveZeroes {
    
     public static void main(String[] args){

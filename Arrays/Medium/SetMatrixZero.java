@@ -1,4 +1,5 @@
-package Medium;
+package Arrays.Medium;
+
 //73. Set Matrix Zeroes
 public class SetMatrixZero {
 

@@ -1,4 +1,5 @@
-package Medium;
+package Arrays.Medium;
+
 
 //48. Rotate Image
 

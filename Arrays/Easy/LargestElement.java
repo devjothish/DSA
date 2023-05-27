@@ -1,3 +1,5 @@
+package Arrays.Easy;
+
 import java.sql.SQLOutput;
 
 public class LargestElement {

@@ -1,3 +1,5 @@
+package Arrays.Easy;
+
 public class Secondsmallest {
     public static void main(String[] args){
         //initialize small and second small variable with int_max

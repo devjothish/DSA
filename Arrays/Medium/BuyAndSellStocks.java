@@ -1,4 +1,4 @@
-package Medium;
+package Arrays.Medium;
 //121. Best Time to Buy and Sell Stock
 public class BuyAndSellStocks {
    

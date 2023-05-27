@@ -1,4 +1,5 @@
-package Medium;
+package Arrays.Medium;
+
 //Leetcode 75
 public class SortColors {
     

@@ -1,4 +1,6 @@
-import java.sql.SQLOutput;
+
+package Arrays.Easy;
+
 import java.util.*;
 
 public class Patterns {

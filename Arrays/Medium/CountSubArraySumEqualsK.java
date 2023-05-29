@@ -17,6 +17,7 @@ public class CountSubArraySumEqualsK {
     }
 
     //Optimalapproach - O(n)
+    //Prefix sum
 
 
     public static void main(String[] args) {

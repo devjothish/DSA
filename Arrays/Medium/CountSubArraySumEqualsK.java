@@ -17,8 +17,8 @@ public class CountSubArraySumEqualsK {
     }
 
     //Optimalapproach - O(n)
-    //Prefix sum - Space complexity O(1).
-
+    //Prefix sum - Space  complexity O(1).
+// tomorrow
 
     public static void main(String[] args) {
         int[] arr={3,1,2,4};
